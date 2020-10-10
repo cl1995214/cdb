@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    我现在做的，就是抄豆瓣
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>

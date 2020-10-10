@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Why this program name is cdb
+是的 ， 我要做的就是抄豆瓣
